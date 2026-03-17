@@ -64,5 +64,6 @@ streamlit run app.py
 - Feature engineering: `AvgMonthlyCharge`, `HasMultipleServices`
 - Clean Streamlit UI with sidebar inputs and risk level output
 
-## Resume Bullet (copy this)
+## Resume Bullet
 [> Built a customer churn predictor using XGBoost on the Telco dataset (AUC 0.86), with SHAP-based explainability and a Streamlit deployment — [your-app-url]](http://localhost:8501/).
+above is the live link for this project 
