@@ -65,4 +65,4 @@ streamlit run app.py
 - Clean Streamlit UI with sidebar inputs and risk level output
 
 ## Resume Bullet (copy this)
-> Built a customer churn predictor using XGBoost on the Telco dataset (AUC 0.86), with SHAP-based explainability and a Streamlit deployment — [your-app-url].
+[> Built a customer churn predictor using XGBoost on the Telco dataset (AUC 0.86), with SHAP-based explainability and a Streamlit deployment — [your-app-url]](http://localhost:8501/).
