@@ -1,4 +1,6 @@
 # Customer Churn Prediction
+http://localhost:8501/ >>this is the live project link
+
 
 Predicts whether a telecom customer will churn using XGBoost, with SHAP-based explainability and a live Streamlit interface.
 
